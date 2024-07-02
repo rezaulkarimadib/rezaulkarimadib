@@ -1,6 +1,7 @@
+# Hi there 👋, I'm REZAUL KARIM
+
 ![WordPress Developer, Gutenberg Spectra Specialist | WooCommerce Expert](https://media.licdn.com/dms/image/D5616AQEtxPNO0h3YhA/profile-displaybackgroundimage-shrink_350_1400/0/1696327419501?e=1725494400&v=beta&t=qM2h1PEkT-3-Fi8MRH49UX8QVucLSUMlmd_xZQkp7RU)
 
-# Hi there 👋, I'm REZAUL KARIM
 ## WordPress Developer, Gutenberg Spectra Specialist | WooCommerce Expert
 
 Intro & Achievements
